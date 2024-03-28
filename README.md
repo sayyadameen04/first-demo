@@ -1,3 +1,3 @@
 # first-demo
 This is my first Git Repository<br>
-Author - Sayyad Ameen
+Author - Sayyad Ameen Sammiyoddin
